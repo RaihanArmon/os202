@@ -1,0 +1,5 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00 120 L02 ZOOM kelas
+ZCZC W00 30 L03 Github
