@@ -1,10 +1,7 @@
 Hi this is my github page
 I'm Muhammad Raihan Armon
 
-
-# Header 1
-## Header 2
-### Header 3
+## WEEKLY LOGS
 
 - Bulleted
 - List
