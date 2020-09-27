@@ -7,3 +7,4 @@ ZCZC W01 150 L21 install GNU/Linux, etc.
 ZCZC W01 60 L01 SCELE related
 ZCZC W01 60 L09 AsDos: asking, etc.
 ZCZC W01 300 L11 Assignment week 01
+ZCZC W01 180 L03 GitHub related 
