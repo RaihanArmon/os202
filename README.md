@@ -1,7 +1,7 @@
 Hi this is my github page
 I'm Muhammad Raihan Armon
 
-## WEEKLY LOGS
+## [WEEKLY LOGS](log/)
 
 ## Operating Systems Weekly Top Ten List 
 * [Week 00](W00/) 
