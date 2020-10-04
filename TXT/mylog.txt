@@ -14,3 +14,8 @@ ZCZC W02 60 L13 Assignment #3 IMPORT KEY
 ZCZC W02 90 L14 Assignment #4 EXPORT KEY
 ZCZC W02 15 L15 Assignment #5 review github pages
 ZCZC W02 10 L00 general log
+ZCZC W02 30 L26 Movie: relax, etc.
+ZCZC W02 20 L17 Assignment #7 write simple and useful bash script
+ZCZC W02 10 L18 Assignment #8 update log
+ZCZC W02 20 L19 Assignment #9 make SHA256SUM
+ZCZC W02 10 L01 SCELE related
