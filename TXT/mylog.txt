@@ -1,4 +1,4 @@
-# Log Format
+ Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 120 L02 ZOOM kelas
@@ -8,3 +8,9 @@ ZCZC W01 60 L01 SCELE related
 ZCZC W01 60 L09 AsDos: asking, etc.
 ZCZC W01 300 L10 all Assignment week 01
 ZCZC W01 180 L03 GitHub related 
+ZCZC W02 45 L11 Assignment #1 chapter 16 & 17
+ZCZC W02 10 L12 Assignment #2 GnuPG Key Pair 
+ZCZC W02 60 L13 Assignment #3 IMPORT KEY
+ZCZC W02 90 L14 Assignment #4 EXPORT KEY
+ZCZC W02 15 L15 Assignment #5 review github pages
+ZCZC W02 10 L00 general log
