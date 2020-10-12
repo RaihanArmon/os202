@@ -5,4 +5,6 @@ ZCZC W00 putrisalsa26
 ZCZC W01 nyomangedar
 ZCZC W01 saridss
 ZCZC W01 taufikalgi
-
+ZCZC W02 rabialco
+ZCZC W02 putrisalsa26
+ZCZC W02 primogu
