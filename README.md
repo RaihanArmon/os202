@@ -1,4 +1,4 @@
-## Hi I'm Muhammad Raihan Armon and this is my Github Page
+## Hi I'm Muhammad Raihan Armon
 
 ## [WEEKLY LOGS](log/)
 
