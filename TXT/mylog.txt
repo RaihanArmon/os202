@@ -24,7 +24,7 @@ ZCZC W03 60 L09 Ados: asking, etc.
 
 ZCZC W03 120 L02 ZOOM kelas
 ZCZC W03 30 L06 Reading Refereces/Books/Documents
-ZCZC W03 15 SCELE related
+ZCZC W03 15 L01 SCELE related
 ZCZC W03 60 L12 Assignment #2 update bash_aliases
 ZCZC W03 10 L16 Assignment #6 run chtoken OS202
 ZCZC W03 10 L17 Assignment #7 download TLPI and write the disk usage
