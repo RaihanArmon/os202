@@ -3,6 +3,7 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 120 L02 ZOOM kelas
 ZCZC W00 30 L03 Github
+
 ZCZC W01 150 L21 install GNU/Linux, etc.
 ZCZC W01 60 L01 SCELE related
 ZCZC W01 60 L09 AsDos: asking, etc.
