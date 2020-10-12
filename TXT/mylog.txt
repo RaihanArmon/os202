@@ -25,10 +25,12 @@ ZCZC W03 60 L09 Ados: asking, etc.
 ZCZC W03 120 L02 ZOOM kelas
 ZCZC W03 30 L06 Reading Refereces/Books/Documents
 ZCZC W03 15 L01 SCELE related
-ZCZC W03 60 L12 Assignment #2 update bash_aliases
+ZCZC W03 40 L12 Assignment #2 DEMOS
+ZCZC W03 60 L13 Assignment #3 update bash_aliases
 ZCZC W03 10 L16 Assignment #6 run chtoken OS202
 ZCZC W03 10 L17 Assignment #7 download TLPI and write the disk usage
 ZCZC W03 5 L19 Assignment #9 update bash script
 ZCZC W03 30 L05 GSGS related
 ZCZC W03 30 L09 AsDos: asking, etc
 ZCZC W03 10 L20 Assingment #10
+ZCZC W03 10 L00 general log
