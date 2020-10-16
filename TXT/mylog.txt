@@ -46,4 +46,6 @@ ZCZC W04 30 L13 Assignment #3 review neighbor
 ZCZC W04 60 L26 Movie: relax, etc.
 ZCZC W04 30 L09 AsDos: asking, etc.
 ZCZC W04 45 L01 SCELE related
+ZCZC W04 60 L05 GSGS Related
+ZCZC W04 60 L14 Assignment #4 make top10 list
 
