@@ -42,3 +42,8 @@ ZCZC W04 120 LO2 ZOOM kelas
 ZCZC WO4 30 L15 Assignment #5 run chtoken NEWHOPE
 ZCZC W04 30 L16 Assignment #6 write result of tar in myW04.txt
 ZCZC W04 10 L18 Assignment #8 update bashscript
+ZCZC W04 30 L13 Assignment #3 review neighbor
+ZCZC W04 60 L26 Movie: relax, etc.
+ZCZC W04 30 L09 AsDos: asking, etc.
+ZCZC W04 45 L01 SCELE related
+
