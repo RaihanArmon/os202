@@ -1,10 +1,6 @@
-## Hi I'm Muhammad Raihan Armon
+## Hi I'm Muhammad Raihan Armon and welcome to my page!
 - [GitHub](https://github.com/cbkadal/os202/)<br>
 - [My Log](TXT/mylog.txt)<br>
-- [My Public Key](TXT/mypubkey.txt)<br>
-- [My Script](TXT/myscript.sh)<br>
-- [SHA256SUM](TXT/SHA256SUM)<br>
-- [SHA256SUM.asc](TXT/SHA256SUM.asc)<br>
 
 ## Operating Systems Weekly Top Ten List 
 * [Week 00](W00/) 
