@@ -1,6 +1,5 @@
 ## Hi I'm Muhammad Raihan Armon
-
-## [WEEKLY LOGS](TXT/mylog.txt)
+## This is my Github Page
 
 ## Operating Systems Weekly Top Ten List 
 * [Week 00](W00/) 
