@@ -1,6 +1,6 @@
 ## Hi I'm Muhammad Raihan Armon
 
-## [WEEKLY LOGS](log/)
+## [WEEKLY LOGS](TXT/mylog.txt)
 
 ## Operating Systems Weekly Top Ten List 
 * [Week 00](W00/) 
