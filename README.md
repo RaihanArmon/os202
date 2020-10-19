@@ -1,4 +1,4 @@
-## Hi I'm Muhammad Raihan Armon and welcome to my page!
+## Hi I'm Muhammad Raihan Armon and welcome to my Github OS Page!
 - [GitHub](https://github.com/cbkadal/os202/)<br>
 - [My Log](TXT/mylog.txt)<br>
 
