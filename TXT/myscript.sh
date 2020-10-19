@@ -1,6 +1,5 @@
 #!/bin/bash
-# Cicak bin Kadal
-# Tue 13 Oct 2020 10:37:14 AM WIB
+
 
 FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
