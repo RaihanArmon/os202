@@ -38,7 +38,7 @@ ZCZC W03 10 L00 general log
 ZCZC W03 05 L14 Assignment #4 review neighbor
 ZCZC W03 60 L15 Assignment #5 make top 10 list
 
-ZCZC W04 120 LO2 ZOOM kelas
+ZCZC W04 120 L02 ZOOM kelas
 ZCZC W04 90 L11 Assignment #1: Read OSC10 and demos
 ZCZC W04 10 L12 Assignment #2: update my virtual guest
 ZCZC WO4 30 L15 Assignment #5 run chtoken NEWHOPE
@@ -52,3 +52,11 @@ ZCZC W04 120 L14 Assignment #4 make top10 list
 ZCZC W04 10 L18 Assignment #8 update bashscript
 ZCZC W04 10 L17 Assignment #7 updating my weeklu log
 
+ZCZC W05 120 L02 ZOOM kelas
+ZCZC W05 60 L11 Assignment #1: Read OSC10 chapter 10
+ZCZC W05 10 L12 Assignment #2: update my virtual guest
+ZCZC W05 30 L13 Assignment #3: review last week top 10 list
+ZCZC W05 60 L09 AsDos: asking, etc.
+ZCZC W05 30 L15 Assignment #5 run chtoken 12345
+ZCZC W05 40 L16 Assignment #6 write result into TXT/myW05.txt
+ZCZC W05 05 L15 Assignment #8 update bash script
