@@ -60,3 +60,5 @@ ZCZC W05 60 L09 AsDos: asking, etc.
 ZCZC W05 30 L15 Assignment #5 run chtoken 12345
 ZCZC W05 40 L16 Assignment #6 write result into TXT/myW05.txt
 ZCZC W05 05 L15 Assignment #8 update bash script
+ZCZC W05 10 L17 Assignment #7 update log
+ZCZC W05 05 L19 Assignment #9 SHA256SUM
