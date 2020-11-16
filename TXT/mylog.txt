@@ -73,3 +73,5 @@ ZCZC W06 05 L18 Assignment #8: update bash script
 ZCZC W06 05 L19 Assignment #9: SHA256SUM
 ZCZC W06 40 L20 Assignment #10: make clean and write into myW06.tar.bz2
 ZCZC W06 20 L20 Assignment #11: GnuPG encrypt (armor) 
+ZCZC W06 60 L13 Assignment #3: top 10 list
+ZCZC W06 10 L17 Assignment #7 update log
