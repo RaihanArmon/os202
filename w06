@@ -1,0 +1,70 @@
+---
+permalink: /W06/
+---
+[HOME](../)
+
+<br>
+# Week 06 top 10 list of interesting OS things
+
+1. [Allocation of Frames](https://www.geeksforgeeks.org/operating-system-allocation-frames/)<br>
+This website explains in detail what exactly is an allocation frame. It also has detailed examples about all the types of algorithms and allocation methods that are used in this process
+
+
+ 2. [Demand Paging](https://www.javatpoint.com/os-demand-paging)<br>
+ Sometimes the computer needs certain pages in the main memory but because there are too many already, it cant do so. This is where demand paging comes in, it basically stores all the pages required in the secondary memory until it is required by the main memory. This website explains how exactly does your computer benefit from this.
+ 
+
+ 
+ 
+ 3. [Copy On Write](https://www.geeksforgeeks.org/copy-on-write/)<br>
+ Copy on write is a resource manegement technique which handles all the pages in the OS. More details on this subject are present in the website that i've linked.
+ 
+
+ 
+ 4. [Non-Uniform Memory Access](https://www.motioncontroltips.com/what-is-non-uniform-memory-access-in-industrial-controls/)<br>
+ If you want your processor to be able to access contents of memory way faster than the standard techniques, NUMA is the way to go. This is possible because of the fact that NUMA's have each their own exclusive local memory for their own use.
+
+
+ 
+ 
+ 5. [Memory-mapped IO vs Port-mapped IO](https://www.bogotobogo.com/Embedded/memory_mapped_io_vs_port_mapped_isolated_io.php)<br>
+ From the outside looking in Memory mapped IO and Port mapped IO have nearly identical features, but where we can differenciate them is within the microprocessers of each IO. This website explains further what i mean by microprocessor.
+ 
+
+ 
+
+ 
+ 6. [Page Replacement Algorithm](https://www.javatpoint.com/os-page-replacement-algorithms)<br>
+ We need an algorithm to decide which pages are to be selected when executing frame allocation, how do we figure this out? We do it by using the page replacement algorithms which is what this website provides.
+ 
+ 
+ 
+ 
+ 
+ 
+ 7. [Page Fault](https://techterms.com/definition/page_fault)<br>
+ A normal process that almost evey computer experiences is what page fault is. It kind of sounds like an error but in truth what it actually does is tell the OS that a certain program cannot access a specific block of memory that is not in the RAM or physical memory, then after getting the notification the OS should transfer that memory to the RAM as requested.
+ 
+
+
+ 
+ 8. [What is a kernel](https://www.thewindowsclub.com/what-is-a-kernel-in-os-what-are-the-types-of-kernel)<br>
+ The kernels connect or help translate communication between the hardware and the software. So whenever we launch a certain application, the one thing that will always help the process run smoothly is the kernel sending signals back and forth to both the hardware and the software.
+
+ 
+
+ 
+ 9. [Thrashing](http://iim6.tripod.com/ibam-os-html/x4404.html)<br>
+ Trashing is the phenomena where the the majority of the time is spent on the paging process rather than the actual execution of the program. this usually happens because of low CPU usage. The website goes into more detail about what i mean.
+ 
+
+
+ 
+ 
+ 
+ 10. [Belady Anomaly](https://prepinsta.com/operating-systems/beladys-anomaly/)<br>
+ The page replacement algorithm specifies the choice of the page which is to be replaced. Now, Belady’s Anomaly is said to occur when the number of page faults increases significantly.
+ 
+
+ 
+ 
