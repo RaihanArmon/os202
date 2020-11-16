@@ -67,8 +67,9 @@ ZCZC W06 60 L11 Assignment #1: Read OSC10 chapter 03 + 04
 ZCZC W06 10 L12 Assignment #2: update virtual guest
 ZCZC W06 30 L13 Assignment #3: review neighbors myrank
 ZCZC W06 10 L15 Assignment #5: run chtoken JOLANTRU put into myW06token.txt
-ZCZC W06 60 L16 Assignment #6: download tar and write into myW06.txt
+ZCZC W06 30 L09 AsDos: asking, etc.
+ZCZC W06 120 L16 Assignment #6: download tar and write into myW06.txt
 ZCZC W06 05 L18 Assignment #8: update bash script
 ZCZC W06 05 L19 Assignment #9: SHA256SUM
 ZCZC W06 40 L20 Assignment #10: make clean and write into myW06.tar.bz2
-ZCZC W06 20 L21 Assignment #11: GnuPG encrypt (armor) 
+ZCZC W06 20 L20 Assignment #11: GnuPG encrypt (armor) 
