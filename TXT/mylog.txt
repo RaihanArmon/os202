@@ -75,3 +75,16 @@ ZCZC W06 40 L20 Assignment #10: make clean and write into myW06.tar.bz2
 ZCZC W06 20 L20 Assignment #11: GnuPG encrypt (armor) 
 ZCZC W06 60 L13 Assignment #3: top 10 list
 ZCZC W06 10 L17 Assignment #7 update log
+
+ZCZC W07 120 L02 ZOOM kelas
+ZCZC W07 120 L11 Assignment #1: Read OSC10 chapter 06 + 07 + 08
+ZCZC W07 30 L09 AsDos: asking, etc.
+ZCZC W07 30 L16 Assignment #6: run chtoken TFAWAKENS put into myW07token.txt
+ZCZC W07 15 L14 Assignment #4: review top10 list neighbors 
+ZCZC W07 100 L17 Assignment #7: download tar
+ZCZC W07 30 L20 Assignment #11: make clean
+ZCZC W07 30 L20 Assignment #12: encrypt
+ZCZC W07 60 L15 Assignment #5: make top10 list
+ZCZC W07 10 L19 Assignment #9: update bash script
+ZCZC W07 10 L20 Assignment #10: SHA256SUM and sign it
+ZCZC W07 20 L08 Assignment #8: update log
