@@ -23,3 +23,6 @@ ZCZC W06 putrisalsa26
 ZCZC W07 primogu
 ZCZC W07 mhanif-82
 ZCZC W07 wienaamanda
+ZCZC W08 mhanif-82
+ZCZC W08 putrisalsa26
+ZCZC W08 rabialco
